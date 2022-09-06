@@ -1,0 +1,9 @@
+{
+  "name": "api_nodejs_rocketseat",
+  "version": "1.0.0",
+  "description": "API nodeJs rocketseat",
+  "main": "index.js",
+  "scripts": {},
+  "author": "MateusRanzani",
+  "license": "MIT"
+}
