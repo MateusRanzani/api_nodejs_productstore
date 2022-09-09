@@ -3,9 +3,32 @@
   "id_product": "1",
   "comments": [
     {
+      "id_product": "1",
+      "id": "1",
       "user_name": "Mateus Ranzani",
       "date": "2022-09-06T13:20:43.276Z",
       "comment": "ótimo produto!"
+    },
+    {
+      "id_product": "1",
+      "id": "2",
+      "user_name": "Roberto Carlos",
+      "date": "2022-09-06T13:20:43.276Z",
+      "comment": "Qual o frete?"
+    },
+    {
+      "id_product": "1",
+      "id": "3",
+      "user_name": "Juliane Roberto",
+      "date": "2022-09-06T13:20:43.276Z",
+      "comment": "Tem garantia?"
+    },
+    {
+      "id_product": "1",
+      "id": "4",
+      "user_name": "Joaquim Paulo",
+      "date": "2022-09-06T13:20:43.276Z",
+      "comment": "Eu quero"
     }
   ]
 }
